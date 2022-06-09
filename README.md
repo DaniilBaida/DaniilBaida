@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **Javascript, Web Development**
 
-- ⚡ Fun fact **I'm a Giant**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
