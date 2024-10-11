@@ -39,6 +39,8 @@ I’m working towards becoming a full-stack developer, and I’m committed to ma
 ## ⚡ Fun Fact  
 I’m 200cm tall, and I love going to the gym to stay active and healthy.
 
+##
+
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=DaniilBaida&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniilBaida&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="languages graph"  />
