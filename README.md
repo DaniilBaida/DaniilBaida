@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://pt.linkedin.com/in/daniil-baida-689b7b221)  
 ![ProfileViews](https://komarev.com/ghpvc/?username=DaniilBaida&label=Profile%20views&color=70A5FD&style=flat)
 
-I’m Daniil Baida, a 20-year-old aspiring Full-Stack Developer with a deep-rooted passion for technology that started in childhood. Born in Ukraine and currently living in Portugal, I’ve always been the go-to person for solving tech-related issues for my family, often known as the “household IT technician.” Over the years, my curiosity and dedication have only grown.
+I’m Daniil Baida, a 21-year-old aspiring Full-Stack Developer with a deep-rooted passion for technology that started in childhood. Born in Ukraine and currently living in Portugal, I’ve always been the go-to person for solving tech-related issues for my family, often known as the “household IT technician.” Over the years, my curiosity and dedication have only grown.
 
 Currently, I’m pursuing a career in full-stack development, applying my skills to personal and academic projects. I’m constantly learning, tackling new challenges, and excited to bring innovative solutions to the tech world.
 
