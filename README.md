@@ -13,14 +13,6 @@
 
 ---
 
-## 🎯 What I Enjoy
-- Writing clean, maintainable **JavaScript** across the stack  
-- Building **React** components and modular backend APIs  
-- Automating workflows and improving user journeys  
-- Learning and mastering new tools and frameworks  
-
----
-
 ## 🌱 Currently Exploring
 - GraphQL & Next.js  
 - Authentication strategies (JWT / OAuth2)  
