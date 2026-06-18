@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Daniil+Baida;Developer+%7C+Builder+%7C+CCNA+in+progress" alt="Daniil Baida" />
 </div>
 
-Developer based in Barreiro, Portugal. Building web products and open-source tools. Background in IT support, mobile dev, and automation. **EN · PT · RU**
+Developer based in Barreiro, Portugal. I build web apps, automation scripts, and open-source Linux tools. Real IT support background across IT internships and freelance work. Currently studying CCNA 200-301 toward network engineering. **EN · PT · RU**
 
 **Stack**
 
